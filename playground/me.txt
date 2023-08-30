@@ -1,0 +1,6 @@
+{{#user}}
+Name: Mohamed Fasil M
+Skills: Linux, AWS, GitHub, Docker, Jenkins, Kubernetes, Terraform, Prometheus and Grafana, Shell scripting, Python
+Email: fazcool55@gmail.com
+{{/user}}
+
